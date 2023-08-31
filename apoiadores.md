@@ -1,4 +1,4 @@
 # Sys Web Browser WL
 
-# :sparkling\_heart: Apoie o projeto
+# :sparkling\_heart: Apoiadores o projeto
 
