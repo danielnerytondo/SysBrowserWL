@@ -6,7 +6,7 @@
 
 ### **1. Faça Download do aplicativo na sua máquina:**
 
-* [Versão 1.0.0.32p](https://github.com/rafaballerini/AssistentePessoal.git)
+* [Versão 1.0.0.32p](https://github.com/danielnerytondo/sysweblurk.git)
 * Crie uma pasta no seu computador para esse programa, recomendo colocar o nome **Sys_weblurk**
 * Descompacte o arquivo baixado na pasta criada
 * Abra a pasta  e seleciona `Alphaweblurk10032p.exe` e pressione `enter` para execultar
@@ -19,8 +19,5 @@
 
 
 
-## Ajudas:
-
-Na pasta `estudos` você escontra alguns códigos simples, que eu utilizei para aprender sobre as ferramentas, inclusive utilizando outras como [espeak](https://espeak.sourceforge.net/) e [pyttsx3](https://pypi.org/project/pyttsx3/)
 
 
