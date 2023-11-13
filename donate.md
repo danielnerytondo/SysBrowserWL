@@ -2,9 +2,9 @@
 
 # :sparkling\_heart: Apoie o projeto
 
-Amo muito este projeto, e praticamente quase todos os dias dedico uma parte do meu tempo livre à fazer melhorias, corrigir erros e bugs no projeto. Obviamente, isso leva tempo. E você pode usar este App e serviços gratuitamente sem custo algum.
+Tenho um carinho especial por este projeto e, praticamente todos os dias, dedico parte do meu tempo livre para implementar melhorias, corrigir erros e bugs. É claro que isso demanda tempo. Você pode desfrutar deste aplicativo e dos serviços associados gratuitamente, sem custos. No entanto, enfrentamos despesas mensais com a hospedagem do serviço (máquina VPS).
 
-No entanto, se você estiver usando este projeto e estiver satisfeito com ele ou apenas quiser me encorajar a continuar criando melhorias neste projeto, existem algumas maneiras de fazer isso, ficarei muito grato pela sua ajuda. 
+Se você estiver usando este projeto e estiver satisfeito com ele, ou se simplesmente desejar me incentivar a continuar aprimorando-o, há algumas maneiras de fazer isso.  Sua ajuda será imensamente valorizada, e para expressar a nossa gratidão, seu nome ou o nome do seu canal será lembrado em nossa [`Lista de Apoiadores`]. Agradeço antecipadamente por qualquer apoio que você possa oferecer.
 ## **Formas de Ajudar:**
 
 * [Livepix](https://livepix.gg/maddaniel1): Doação via LivePix
