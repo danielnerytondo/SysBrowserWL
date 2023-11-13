@@ -2,7 +2,7 @@
 
 # :sparkling\_heart: Apoiadores o projeto
 
-*  [https://www.twitch.tv/canalvoxx](https://www.twitch.tv/canalvoxx)
+*  [`https://www.twitch.tv/canalvoxx`](https://www.twitch.tv/canalvoxx)
 
    Clique no link abaixo e contribua e tenha o nome do seu canal divulgado aqui
 
