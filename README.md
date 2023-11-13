@@ -6,10 +6,10 @@
 
 ### **1. Faça Download do aplicativo na sua máquina:**
 
-* [Versão 1.0.0.32p](https://github.com/danielnerytondo/sysweblurk.git)
+* [Versão 1.0.0.33p](https://github.com/danielnerytondo/sysweblurk.git)
 * Crie uma pasta no seu computador para esse programa, recomendo colocar o nome **Sys_weblurk**
 * Descompacte o arquivo baixado na pasta criada
-* Abra a pasta  e seleciona `Alphaweblurk10032p.exe` e pressione `enter` para execultar
+* Abra a pasta  e seleciona `XXXXXweblurk10033p.exe` e pressione `enter` para execultar
 
 ### **2. Caso seja necessario Instale as ferramentas necessarias.**
 
