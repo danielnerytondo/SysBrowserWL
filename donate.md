@@ -15,7 +15,9 @@ Se você estiver usando este projeto e estiver satisfeito com ele, ou se simples
 # :sparkling\_heart: **Apoiadores o projeto**
 
 CanalVoXx -> https://twitch.tv/canalvoxx
+
 Gamesdomagro -> https://twitch.tv/equipesintonia
+
 ShadowMoon-> https://www.twitch.tv/theteamshadow
 
 
