@@ -12,7 +12,8 @@ Se você estiver usando este projeto e estiver satisfeito com ele, ou se simples
 * Chave pix: mad.danielx@gmail.com
 
 
-💖 Apoiadores o projeto
+# :sparkling\_heart: **Apoiadores o projeto**
+
 https://www.twitch.tv/canalvoxx
 
 Contribua e tenha o nome do seu canal divulgado aqui.
