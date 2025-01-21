@@ -2,7 +2,9 @@
 
 # :sparkling\_heart: Apoiadores o projeto
 
-*  [`https://www.twitch.tv/canalvoxx`](https://www.twitch.tv/canalvoxx)
+* CanalVoXx -> https://twitch.tv/canalvoxx
+* Gamesdomagro -> https://twitch.tv/equipesintonia
+* ShadowMoon-> https://www.twitch.tv/theteamshadow
 
    Clique no link abaixo e contribua e tenha o nome do seu canal divulgado aqui
 
