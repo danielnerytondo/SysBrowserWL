@@ -2,9 +2,9 @@
 
 # :sparkling\_heart: Apoie o projeto
 
-Tenho um carinho especial por este projeto e, praticamente todos os dias, dedico parte do meu tempo livre para implementar melhorias, corrigir erros e bugs. É claro que isso demanda tempo. Você pode desfrutar deste aplicativo e dos serviços associados gratuitamente, sem custos. No entanto, enfrentamos despesas mensais com a hospedagem do serviço (máquina VPS Dedicada).
+Tenho um carinho muito especial por este projeto, creio que este aplicativo ja ajudou e tem ajudado ainda bastante criadores de conteúdo e streamers a terem um bom enganjamento em seus canais. Praticamente todos os dias, dedico parte do meu tempo livre para implementar melhorias, corrigir erros e bugs. É claro que isso demanda tempo. Você pode desfrutar deste aplicativo e dos serviços associados gratuitamente, sem custos. No entanto, enfrentamos despesas mensais com a hospedagem do serviço (máquina VPS Dedicada).
 
-Se você estiver usando este projeto e estiver satisfeito com ele, ou se simplesmente desejar me incentivar a continuar aprimorando-o, há algumas maneiras de fazer isso nos links abaixo.  Sua ajuda será imensamente valorizada, e para expressar a nossa gratidão, seu nome ou o nome do seu canal será lembrado em nossa [`Lista de Apoiadores`](https://github.com/danielnerytondo/SysBrowserWL/blob/main/apoiadores.md) , e tambem abaixo. Agradeço antecipadamente por qualquer apoio que você possa oferecer.
+Se você estiver usando este projeto e estiver satisfeito com ele, ou se simplesmente desejar me incentivar a continuar aprimorando-o, há algumas maneiras de fazer isso nos links abaixo.  Sua ajuda será imensamente valorizada, e para expressar a minha gratidão, seu nome ou o nome do seu canal será lembrado em nossa [`Lista de Apoiadores`](https://github.com/danielnerytondo/SysBrowserWL/blob/main/apoiadores.md) , e tambem listado abaixo. Agradeço antecipadamente por qualquer apoio que você possa oferecer.
 ## **Formas de Ajudar:**
 
 * [Livepix](https://livepix.gg/maddaniel1): Doação via LivePix
@@ -12,7 +12,7 @@ Se você estiver usando este projeto e estiver satisfeito com ele, ou se simples
 * Chave pix: mad.danielx@gmail.com
 
 
-# :sparkling\_heart: **Apoiadores o projeto**
+# :sparkling\_heart: **Apoiadores do projeto**
 
 * CanalVoXx -> https://twitch.tv/canalvoxx
 * Gamesdomagro -> https://twitch.tv/equipesintonia
